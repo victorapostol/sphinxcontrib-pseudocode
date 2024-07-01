@@ -1,5 +1,7 @@
 # sphinxcontrib-pseudocode
 
+This is a fork that fixes the latex code not being rendered for newer versions of Sphinx and makes it compatible with Katex.
+
 This is a [sphinx-doc](https://www.sphinx-doc.org/en/master/) extension that allows you to write LaTeX algorithm
 directly inside sphinx-doc. The rendering of LaTex algorithm is powered by 
 [pseudocode.js](https://github.com/SaswatPadhi/pseudocode.js).
